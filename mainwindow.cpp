@@ -49,7 +49,7 @@ TMainWindow::TMainWindow(bool transparency)
     quickWidget->setSource(source);
     quickWidget->setFocus();
 
-    mainWidget = new TMainWidget(this, true);
+    mainWidget = new TMainWidget(this, true, "https://github.com/friendlyarm/QtE-OpenGLDemo.git");
     mainWidget->setAttribute(Qt::WA_TranslucentBackground);
     mainWidget->setAttribute(Qt::WA_NoSystemBackground, true);
     mainWidget->raise();

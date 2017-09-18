@@ -1,0 +1,3 @@
+[submodule "QtE-Demo"]
+	path = QtE-Demo
+	url = https://github.com/friendlyarm/QtE-Demo.git
