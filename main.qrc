@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qquickviewcomparison">
+        <file>test.qml</file>
+	<file>QtE-Demo/bg.png</file>
+    </qresource>
+</RCC>
