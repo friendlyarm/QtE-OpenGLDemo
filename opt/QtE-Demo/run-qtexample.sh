@@ -1,5 +1,5 @@
 #!/bin/bash
 
 . /usr/bin/setqt5env
-cd $QTDIR/examples/opengl/qopenglwidget
-./qopenglwidget -qws&
+cd $QTDIR/examples/virtualkeyboard/basic
+./basic -qws&
