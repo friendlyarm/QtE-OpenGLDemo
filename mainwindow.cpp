@@ -26,7 +26,6 @@
 #include <QLabel>
 #include "util.h"
 #include "sys/sysinfo.h"
-#include "boardtype_friendlyelec.h"
 
 TMainWindow::TMainWindow(bool transparency)
 	: QWidget()
